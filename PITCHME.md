@@ -6,6 +6,10 @@
 
 ## First day of class
 
+![teacher](assets/teacher.jpg)
+
++++
+
 <table>
 <tr>
     <td>Fellow Student</td>
@@ -26,4 +30,15 @@
       </pre>
     </td>
 </tr>
+<tr>
+    <td>
+      <img src="assets/pip.png" />
+    </td> <td>
+      <img src="assets/jupyter.png" />
+    </td>
+</tr>
 </table>
+
++++
+
+
