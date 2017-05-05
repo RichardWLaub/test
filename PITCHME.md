@@ -6,4 +6,4 @@
 
 ## Go broncos
 
-Let's go borncos
+Let's go broncos
