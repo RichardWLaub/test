@@ -4,6 +4,16 @@
 
 ---
 
+## Instructors
+
+Anthony Ramirez | Richard Laub
+
+---
+
+# Richard's Story
+
++++
+
 ## First day of class
 
 ![teacher](assets/teacher.jpg)
@@ -38,3 +48,9 @@
     </td>
 </tr>
 </table>
+
++++
+
+| Other Student | Me
+|---------| -------|
+![pip](assets/pip.jpg) | ![jupyter](assets/jupyter.jpg)
