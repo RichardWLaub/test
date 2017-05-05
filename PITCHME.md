@@ -6,8 +6,9 @@
 
 ## First day of class
 
-Fellow Student      |  Me
-:-------: | : --------:
-`pip install anaconda` | `docker run -it -p 8888:8888 \ `
-`bash: pip: command not found` | `continuumio/anaconda \ `
-   | `jupyter notebook --ip='*' `
+<table>
+<tr>
+    <td>Fellow Student</td>
+    <td>Me</td>
+</tr>
+</table>
