@@ -4,8 +4,10 @@
 
 ---
 
-## Go broncos
+## First day of class
 
-Left      |  Right 
+Fellow Student      |  Me
 :-------: | : --------:
-this is   | a table
+`pip install anaconda` | `docker run -it -p 8888:8888 \ `
+`bash: pip: command not found` | `continuumio/anaconda \ `
+   | `jupyter notebook --ip='*' `
