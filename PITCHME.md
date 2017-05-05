@@ -1,6 +1,6 @@
-# Git pitch test
+# UCI Docker Day
 
-This is a test
+![docker](assets/docker.png)
 
 ---
 
