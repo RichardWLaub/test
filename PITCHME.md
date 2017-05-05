@@ -32,9 +32,9 @@
 </tr>
 <tr>
     <td>
-      <img src="assets/pip.png" />
+      <img src="assets/pip.jpg" />
     </td> <td>
-      <img src="assets/jupyter.png" />
+      <img src="assets/jupyter.jpg" />
     </td>
 </tr>
 </table>
