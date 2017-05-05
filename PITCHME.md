@@ -20,31 +20,7 @@ Anthony Ramirez | Richard Laub
 
 +++
 
-<table>
-<tr>
-    <td>Fellow Student</td>
-    <td>Me</td>
-</tr>
-<tr>
-    <td>
-      <pre>
-      pip install anaconda
-      bash: pip: command not found
-      </pre>
-    </td>
-    <td>
-      <pre>
-      docker run -it -p 8888:8888 \
-      continuumio/anaconda \
-      jupyter notebook --ip='*'
-      </pre>
-    </td>
-</tr>
-</table>
-
-+++
-
-## Other Student - no docker :(
+## Fellow Student - no docker :(
 ```
 $ pip install anaconda
 bash: pip: command not found
@@ -60,7 +36,7 @@ $ docker run -it -p 8888:8888 \
 
 +++
 
-## Other Student
+## Fellow Student
 ![pip](assets/pip.jpg)
 
 +++
