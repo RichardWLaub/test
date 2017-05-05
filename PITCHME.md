@@ -1,6 +1,6 @@
 #### UCI Docker Day
 
-![docker](assets/docker.jpg) | ![anteater](assets/aneater.jpg)
+![docker](assets/docker.jpg) | ![anteater](assets/anteater.jpg)
 ----|---
 
 ---
