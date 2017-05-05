@@ -1,7 +1,6 @@
 #### UCI Docker Day
 
-![docker](assets/whale.jpg) | ![anteater](assets/anteater.jpg)
-----|---
+![docker](assets/whale.jpg)
 
 ---
 
@@ -34,6 +33,7 @@ Anthony Ramirez | Richard Laub
 +++
 
 ## Fellow Student without Docker
+
 ```
 $ pip install anaconda
 bash: pip: command not found
@@ -50,30 +50,35 @@ $ docker run -it -p 8888:8888 \
 +++
 
 ## Fellow Student
+
 ![pip](assets/pip.jpg)
 
 +++
 
 ## Me
+
 ![jupyter](assets/jupyter.jpg)
 
 ---
 
 ## Exercises
 
-For the exercises we'll be using [play-with-docker.com](play-with-docker.com)
+For the exercises we'll be using:
 
-We'll also need a Docker account. Sign up at [hub.docker.com](hub.docker.com)
+[play-with-docker.com](play-with-docker.com)
+
+We'll also need a Docker account. Sign up at
+[hub.docker.com](hub.docker.com)
 
 +++
 
 ## Errata
 
-Exercise 6.1
+Exercise 6.1: Change 16.04 to 14.04 since 14.04 already has ping installed for
+exercise 7
 
-```
+```dockerfile
 FROM ubuntu:14.04
-# 14.04 already has ping installed for exercise 7
 ```
 
 +++
@@ -83,7 +88,7 @@ FROM ubuntu:14.04
 Exercise 8.1 
 
 ```
-# Install java for alpine instead of apt-get
+# Install java for alpine instead of apt-get for ubuntu
 apk add -U openjdk7
 # Move javac to your path
 export PATH=$PATH:/usr/lib/jvm/java-1.7-openjdk/bin
