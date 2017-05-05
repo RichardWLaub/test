@@ -65,10 +65,10 @@ $ docker run -it -p 8888:8888 \
 
 For the exercises we'll be using:
 
-[play-with-docker.com](play-with-docker.com)
+[play-with-docker.com](http://play-with-docker.com)
 
 We'll also need a Docker account. Sign up at
-[hub.docker.com](hub.docker.com)
+[hub.docker.com](https://hub.docker.com)
 
 +++
 
