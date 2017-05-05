@@ -44,11 +44,13 @@ Anthony Ramirez | Richard Laub
 
 +++
 
-## Other Student
+## Other Student - no docker :(
 ```
 $ pip install anaconda
 bash: pip: command not found
 ```
+
+## Me - docker :)
 
 ```
 $ docker run -it -p 8888:8888 \
