@@ -16,7 +16,7 @@ Anthony Ramirez | Richard Laub
 
 Before | After
 ------ | -----
-![before](assets/dockers-before.jpg =250x) | ![after](assets/dockers-after.jpg =250x)
+![before](assets/dockers-before.jpg) | ![after](assets/dockers-after.jpg)
 
 ## First day of class
 
