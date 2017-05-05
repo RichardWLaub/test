@@ -20,8 +20,9 @@
     </td>
     <td>
       <pre>
-      docker run anaconda \
-      jupyter notebook
+      docker run -it -p 8888:8888 \
+      continuumio/anaconda \
+      jupyter notebook --ip='*'
       </pre>
     </td>
 </tr>
