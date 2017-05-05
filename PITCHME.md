@@ -40,17 +40,11 @@ Anthony Ramirez | Richard Laub
       </pre>
     </td>
 </tr>
-<tr>
-    <td>
-      <img src="assets/pip.jpg" />
-    </td> <td>
-      <img src="assets/jupyter.jpg" />
-    </td>
-</tr>
 </table>
 
 +++
+## Other Student
+![pip](assets/pip.jpg)
 
-| Other Student | Me
-|---------| -------|
-![pip](assets/pip.jpg) | ![jupyter](assets/jupyter.jpg)
+## Me
+![jupyter](assets/jupyter.jpg)
