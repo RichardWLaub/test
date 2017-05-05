@@ -43,8 +43,25 @@ Anthony Ramirez | Richard Laub
 </table>
 
 +++
+
+## Other Student
+```
+$ pip install anaconda
+bash: pip: command not found
+```
+
+```
+$ docker run -it -p 8888:8888 \
+> continuumio/anaconda \
+> jupyter notebook --ip="*'
+```
+
++++
+
 ## Other Student
 ![pip](assets/pip.jpg)
+
++++
 
 ## Me
 ![jupyter](assets/jupyter.jpg)
