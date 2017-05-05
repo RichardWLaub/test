@@ -6,4 +6,6 @@
 
 ## Go broncos
 
-Let's go broncos
+Left      |  Right 
+:-------: | : --------:
+this is   | a table
