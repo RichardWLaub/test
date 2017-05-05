@@ -1,6 +1,8 @@
 # UCI Docker Day
 
-![docker](./assets/docker.jpg)
++++
+
+![docker](assets/docker.jpg)
 
 ---
 
