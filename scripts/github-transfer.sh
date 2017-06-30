@@ -8,7 +8,7 @@ if [ -z "$1" ] ; then
     exit 1
 fi
 
-if [ -z "$2" ] ; then
+if [ -z "$2" ] || [ "$2" == "@@NAME@@" ] ; then
     echo "Usage: ./github-transfer.sh <org-name> <repo-name> <ghe-url>"
     exit 1
 fi
