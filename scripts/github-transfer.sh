@@ -39,7 +39,7 @@ fi
 
 # clone github repo and remove notes and .git
 git clone --depth=1 git@github.com:$REPO.git "$DIR"-source
-rm -fr "$DIR"-source/notes "$DIR"-source/.git
+rm -fr "$DIR"-source/notes "$DIR"-source/.git "$DIR"-source/Jenkinsfile
 
 # check for .gitignore
 if ! [ -a "$DIR"-source/.gitignore ] ; then
