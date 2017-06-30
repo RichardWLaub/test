@@ -65,4 +65,4 @@ else
     git push
 fi
 
-#clean_up 'Done'
+clean_up 'Done'
